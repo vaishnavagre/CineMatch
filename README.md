@@ -2,10 +2,11 @@
 CineMatch is a content-based movie recommendation system that recommends similar movies based on their characteristics. It provides the Top 5 movie recommendations through a simple and user-friendly Streamlit web interface.
 
 Features
-Select a movie from the available movie list
-Get Top 5 similar movie recommendations
-Simple and interactive Streamlit interface
-Displays recommendation match percentage
+1)Select a movie from the available movie list
+2)Get Top 5 similar movie recommendations
+3)Simple and interactive Streamlit interface
+4)Displays recommendation match percentage
+
 Dataset
 
 The project uses the following datasets:
